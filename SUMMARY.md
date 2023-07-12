@@ -15,7 +15,7 @@
   * [6. References](user-manuals/nutanix-ce-deployment-guide/6.-references.md)
   * [7. Appendix](user-manuals/nutanix-ce-deployment-guide/appendix.md)
 
-  ## API Docs
+## API Docs
 
-  * [Overview](api-docs/state-data-api/overview.md)
-  * [Specification Document](api-docs/state-data-api/states-api-spec.yaml)
+* [State Data API](api-docs/state-data-api/README.md)
+  * [Specification Document](api-docs/state-data-api/specification-document.md)
