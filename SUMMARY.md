@@ -18,4 +18,4 @@
   ## API Docs
 
   * [Overview](api-docs/state-data-api/overview.md)
-  * [Specification Document](api-docs/state-data-api/States-API-spec.yaml)
+  * [Specification Document](api-docs/state-data-api/states-api-spec.yaml)
